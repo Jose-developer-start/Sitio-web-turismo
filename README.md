@@ -1,2 +1,2 @@
-# Sitio-web-turismo
-Sitio web desarrollador con HTML5, CSS3 y librería como wow.js, animate.css y Bootstrap 4.5, este es de forma estático.
+# SitioWeb_Proyect_INTERNETuno-
+En inglés website o web site, un sitio web es un sitio (localización) en la World Wide Web que contine documentos (páginas web) organizados jerárquicamente. Cada documento (página web) contiene texto y o gráficos que aparecen como información digital en la pantalla de un ordenador.
